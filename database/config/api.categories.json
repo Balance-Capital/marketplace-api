@@ -1,0 +1,4043 @@
+[{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e45"
+  },
+  "name": "Beauty",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.685Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e46"
+  },
+  "name": "Cosmetics",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.686Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e47"
+  },
+  "name": "Technology",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.686Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e48"
+  },
+  "name": "Health Foods Vitamins",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e49"
+  },
+  "name": "Multi-Category Retailers",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e4a"
+  },
+  "name": "Fashion & Accessories",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e4b"
+  },
+  "name": "Shipping and Delivery",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e4c"
+  },
+  "name": "Business",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e4d"
+  },
+  "name": "Consumer Electronics/Gadgets",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.688Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e4e"
+  },
+  "name": "Computers",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.688Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e4f"
+  },
+  "name": "Uniforms and Work Apparel",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.688Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e50"
+  },
+  "name": "Sportswear",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.688Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e51"
+  },
+  "name": "Women's Fashion",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.688Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e52"
+  },
+  "name": "Office Supplies Stationery",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e53"
+  },
+  "name": "DIY Home Improvement",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e54"
+  },
+  "name": "Home",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e55"
+  },
+  "name": "Flowers",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e56"
+  },
+  "name": "Gifts",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e57"
+  },
+  "name": "Computer and Laptop Accessories",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e58"
+  },
+  "name": "Personal Finance",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e59"
+  },
+  "name": "Interests",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e5a"
+  },
+  "name": "Health and Wellness",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e5b"
+  },
+  "name": "Wellness",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e5c"
+  },
+  "name": "Home & Garden",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e5d"
+  },
+  "name": "Furniture",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e5e"
+  },
+  "name": "Food & Drink",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.690Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e5f"
+  },
+  "name": "Clothing/Apparel",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e60"
+  },
+  "name": "Men's",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e61"
+  },
+  "name": "Gender - Male",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e62"
+  },
+  "name": "Package Holidays",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e63"
+  },
+  "name": "Flights",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e64"
+  },
+  "name": "Cruises",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e65"
+  },
+  "name": "Hotels",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e66"
+  },
+  "name": "Car Rental",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e67"
+  },
+  "name": "Restaurants and Booking Services",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e68"
+  },
+  "name": "Travel",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e69"
+  },
+  "name": "Ferry",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.692Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.692Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e6a"
+  },
+  "name": "Coach",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.692Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.692Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e6b"
+  },
+  "name": "Gifts & Flowers",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.692Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.692Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e6c"
+  },
+  "name": "Appliances",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.692Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.692Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e6d"
+  },
+  "name": "Jewellery",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.692Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.692Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e6e"
+  },
+  "name": "Watches",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.692Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.692Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e6f"
+  },
+  "name": "Lingerie Sleepwear",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e70"
+  },
+  "name": "Men's Fashion",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e71"
+  },
+  "name": "Marketing/Advertising Services",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e72"
+  },
+  "name": "Board Games and Puzzles",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e73"
+  },
+  "name": "Other Gifts",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e74"
+  },
+  "name": "Children's Toys",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e75"
+  },
+  "name": "Books eBooks",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e76"
+  },
+  "name": "Entertainment",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e77"
+  },
+  "name": "Personalised Gifts",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e78"
+  },
+  "name": "Financial Services",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e79"
+  },
+  "name": "Tax Services",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e7a"
+  },
+  "name": "Electronic Smoking Vapour",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e7b"
+  },
+  "name": "Fitness Equipment",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e7c"
+  },
+  "name": "Fitness Products and Services",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e7d"
+  },
+  "name": "Computer & Electronics",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e7e"
+  },
+  "name": "Women's Shoes",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e7f"
+  },
+  "name": "Bags/Belts/Wallets and Hats",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e80"
+  },
+  "name": "Other Beauty Products",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e81"
+  },
+  "name": "Accessories",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e82"
+  },
+  "name": "Jewelry",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e83"
+  },
+  "name": "Arts & Crafts",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e84"
+  },
+  "name": "Collecting (Stamps",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e85"
+  },
+  "name": "Coins",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e87"
+  },
+  "name": "Music",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e88"
+  },
+  "name": "Tobacco",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e89"
+  },
+  "name": "Mobile Phone Accessories",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e8a"
+  },
+  "name": "Mobile Phones (Devices)",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e8b"
+  },
+  "name": "Automotive",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e8c"
+  },
+  "name": "Car Accessories",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e8d"
+  },
+  "name": "Pet Supplies",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e8e"
+  },
+  "name": "Games & Toys",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e8f"
+  },
+  "name": "Electronic Games",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e90"
+  },
+  "name": "Art and Posters",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e91"
+  },
+  "name": "Food & Drinks",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e92"
+  },
+  "name": "Gourmet",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e93"
+  },
+  "name": "Software",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e94"
+  },
+  "name": "Handbags",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e95"
+  },
+  "name": "Department Stores",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e96"
+  },
+  "name": "Men's Shoes",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e97"
+  },
+  "name": "Hotel",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e98"
+  },
+  "name": "Medical Equipment",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e99"
+  },
+  "name": "Medicines & Prescriptions",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e9a"
+  },
+  "name": "Women's",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e9b"
+  },
+  "name": "Groceries",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e9c"
+  },
+  "name": "Family",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e9d"
+  },
+  "name": "Babies",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e9e"
+  },
+  "name": "Business Finance",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31e9f"
+  },
+  "name": "Magazines",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ea0"
+  },
+  "name": "Services",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ea1"
+  },
+  "name": "Internet Subscription Services",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ea2"
+  },
+  "name": "Careers",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ea3"
+  },
+  "name": "Employment",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ea4"
+  },
+  "name": "Luxury",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ea5"
+  },
+  "name": "Drugstore & Pharmacy",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ea6"
+  },
+  "name": "Nutritional Supplements",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ea7"
+  },
+  "name": "Skincare",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ea8"
+  },
+  "name": "Gender - Female",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ea9"
+  },
+  "name": "Fragrances",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eaa"
+  },
+  "name": "Nails and Nailcare",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eab"
+  },
+  "name": "Hair Care",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eac"
+  },
+  "name": "Productivity Tools",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ead"
+  },
+  "name": "Gourmet Food",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eae"
+  },
+  "name": "Soft Furnishings",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eaf"
+  },
+  "name": "Fast Food and Food Delivery",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eb0"
+  },
+  "name": "Kitchenware Cooking Equipment",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eb1"
+  },
+  "name": "Mature/Adult",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eb2"
+  },
+  "name": "Lighting",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eb3"
+  },
+  "name": "Education Careers",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eb4"
+  },
+  "name": "Contact Lenses",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eb5"
+  },
+  "name": "Outdoor Clothing",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eb6"
+  },
+  "name": "Garden Plants",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eb7"
+  },
+  "name": "Glasses Sunglasses",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eb8"
+  },
+  "name": "Children's Fashion",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eb9"
+  },
+  "name": "Swimwear",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eba"
+  },
+  "name": "Mixed Women's and Men's Fashion",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ebb"
+  },
+  "name": "Web Hosting",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.700Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ebc"
+  },
+  "name": "Grocery",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.700Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ebd"
+  },
+  "name": "Insurance",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.700Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ebe"
+  },
+  "name": "Recreation & Leisure",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ebf"
+  },
+  "name": "Outdoors",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ec0"
+  },
+  "name": "Shoes",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ec1"
+  },
+  "name": "Yoga Equipment and Apparel",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ec2"
+  },
+  "name": "Hunting",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ec3"
+  },
+  "name": "Vacation",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ec4"
+  },
+  "name": "Children Shoes",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ec5"
+  },
+  "name": "Greeting Cards",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ec6"
+  },
+  "name": "Specialist Food",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ec7"
+  },
+  "name": "Camping",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ec8"
+  },
+  "name": "Water and Beach Sports",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ec9"
+  },
+  "name": "Personalised Stationary and Invitations",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eca"
+  },
+  "name": "Travel Accessories/Luggage",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ecb"
+  },
+  "name": "Mobile Phone Connections/Subscriptions",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ecc"
+  },
+  "name": "Chocolate",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ecd"
+  },
+  "name": "Cable TV",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ece"
+  },
+  "name": "Satelite TV",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ecf"
+  },
+  "name": "Broadband ISP",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ed0"
+  },
+  "name": "Plus Size Apparel",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ed1"
+  },
+  "name": "Pop Culture",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ed2"
+  },
+  "name": "Maternity",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ed3"
+  },
+  "name": "Mixed Women's and Children's Fashion",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.702Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ed4"
+  },
+  "name": "Snow Sports Equipment and Clothing",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ed5"
+  },
+  "name": "Baby Toddler Equipment",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ed6"
+  },
+  "name": "Party Supplies",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ed7"
+  },
+  "name": "Education",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ed8"
+  },
+  "name": "Professional",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ed9"
+  },
+  "name": "Console/Computer Gaming",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eda"
+  },
+  "name": "Gardening Equipment",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31edb"
+  },
+  "name": "Fishing",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31edc"
+  },
+  "name": "Wine",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31edd"
+  },
+  "name": "Beer",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ede"
+  },
+  "name": "Spirits",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31edf"
+  },
+  "name": "Books/Media",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ee0"
+  },
+  "name": "Books",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ee1"
+  },
+  "name": "Anti-Virus Software",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ee2"
+  },
+  "name": "Tickets",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ee3"
+  },
+  "name": "Theme Park Zoo Tickets",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ee4"
+  },
+  "name": "Subscription Shopping",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ee5"
+  },
+  "name": "Photo Printing",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ee6"
+  },
+  "name": "Coupons/Deals",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ee7"
+  },
+  "name": "Cameras",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ee8"
+  },
+  "name": "Pets",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ee9"
+  },
+  "name": "Wine, Beer, Spirits",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eea"
+  },
+  "name": "Internet-only Department Stores",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.704Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eeb"
+  },
+  "name": "Skateboarding",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eec"
+  },
+  "name": "Car Parking",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eed"
+  },
+  "name": "Toys",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eee"
+  },
+  "name": "Bath & Body",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eef"
+  },
+  "name": "Candy and Confectionery",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ef0"
+  },
+  "name": "Home Appliances",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ef1"
+  },
+  "name": "Garden Furniture",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ef2"
+  },
+  "name": "Movies",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ef3"
+  },
+  "name": "Consumer Electronics",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ef4"
+  },
+  "name": "Blogging Services",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ef5"
+  },
+  "name": "Domain Registrations",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ef6"
+  },
+  "name": "Womens",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ef7"
+  },
+  "name": "Kitchen",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ef8"
+  },
+  "name": "Cycling Equipment",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31ef9"
+  },
+  "name": "Vision Care",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31efa"
+  },
+  "name": "News",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31efb"
+  },
+  "name": "Men's Wedding Clothing",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31efc"
+  },
+  "name": "Women's Wedding Clothing",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31efd"
+  },
+  "name": "Wedding Gifts",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31efe"
+  },
+  "name": "Green",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31eff"
+  },
+  "name": "Online Services",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f00"
+  },
+  "name": "Sports & Fitness",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f01"
+  },
+  "name": "Equipment",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f02"
+  },
+  "name": "",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f03"
+  },
+  "name": "Organic and Ethically Sourced",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f04"
+  },
+  "name": "Cars",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f05"
+  },
+  "name": "Musical Instruments",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f06"
+  },
+  "name": "Apparel",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f07"
+  },
+  "name": "Golf Apparel and Equipment",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f08"
+  },
+  "name": "Genealogy Family Trees",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f09"
+  },
+  "name": "Motorbikes",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f0a"
+  },
+  "name": "Motorbike Accessories",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f0b"
+  },
+  "name": "Bathroom Fittings Fixtures",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f0c"
+  },
+  "name": "Children",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f0d"
+  },
+  "name": "Fragrance",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f0e"
+  },
+  "name": "Parts & Accessories",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f0f"
+  },
+  "name": "Fancy Dress Costumes",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f10"
+  },
+  "name": "Languages",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f11"
+  },
+  "name": "Other Tickets Events",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f12"
+  },
+  "name": "Theatre Tickets",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f13"
+  },
+  "name": "Concert Tickets",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f14"
+  },
+  "name": "Equestrian",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f15"
+  },
+  "name": "Mens",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f16"
+  },
+  "name": "Department Stores/Malls",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f17"
+  },
+  "name": "Virtual Malls",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f18"
+  },
+  "name": "Paid Recycling",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f19"
+  },
+  "name": "Telecommunications",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f1a"
+  },
+  "name": "Telephone Services",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f1b"
+  },
+  "name": "Web Hosting/Servers",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f1c"
+  },
+  "name": "Rented Holiday Accommodation",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f1d"
+  },
+  "name": "Air",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f1e"
+  },
+  "name": "TV",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f1f"
+  },
+  "name": "Golf",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f20"
+  },
+  "name": "Other Entertainment",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f21"
+  },
+  "name": "Dating Relationships",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f22"
+  },
+  "name": "Outdoor Cooking",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f23"
+  },
+  "name": "Festival Tickets",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f24"
+  },
+  "name": "Adventure Holidays",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f25"
+  },
+  "name": "Travel Insurance",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f26"
+  },
+  "name": "Health Food",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f27"
+  },
+  "name": "Office",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f28"
+  },
+  "name": "Videos/Movies",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f29"
+  },
+  "name": "VPN Providers",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f2a"
+  },
+  "name": "Art/Photo/Music",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f2b"
+  },
+  "name": "Photo",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f2c"
+  },
+  "name": "Computer SW",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f2d"
+  },
+  "name": "Exercise & Health",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f2e"
+  },
+  "name": "Cloud Computing",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f2f"
+  },
+  "name": "Construction",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f30"
+  },
+  "name": "Printers",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f31"
+  },
+  "name": "Online/Wireless",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f32"
+  },
+  "name": "Spas and Massages",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f33"
+  },
+  "name": "Luggage",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f34"
+  },
+  "name": "Shopping",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f35"
+  },
+  "name": "News Subscriptions",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f36"
+  },
+  "name": "Artisanal",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f37"
+  },
+  "name": "Charities",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f38"
+  },
+  "name": "Trains",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f39"
+  },
+  "name": "Audiobooks",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f3a"
+  },
+  "name": "Pharmaceuticals",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f3b"
+  },
+  "name": "Cars & Trucks",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f3c"
+  },
+  "name": "Malls",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f3d"
+  },
+  "name": "Utilities",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f3e"
+  },
+  "name": "Domestic Staff",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f3f"
+  },
+  "name": "Personal Insurance",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f40"
+  },
+  "name": "Email Marketing",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f41"
+  },
+  "name": "Betting/Gaming",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f42"
+  },
+  "name": "Paid Social Networks",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f43"
+  },
+  "name": "Car",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f44"
+  },
+  "name": "Art",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f45"
+  },
+  "name": "General Gambling",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f46"
+  },
+  "name": "Gambling",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f47"
+  },
+  "name": "Marketing",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f48"
+  },
+  "name": "Events",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f49"
+  },
+  "name": "Summer Sports",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f4a"
+  },
+  "name": "Business-to-Business",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f4b"
+  },
+  "name": "Self Help",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f4c"
+  },
+  "name": "Computer HW",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f4d"
+  },
+  "name": "Internet Service Providers",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f4e"
+  },
+  "name": "Stock Photography",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f4f"
+  },
+  "name": "Weight Loss",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f50"
+  },
+  "name": "Banking/Trading",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f51"
+  },
+  "name": "Matchmaking",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f52"
+  },
+  "name": "Real Estate Property",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f53"
+  },
+  "name": "Children's",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f54"
+  },
+  "name": "Sports",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f55"
+  },
+  "name": "Phone Card Services",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f56"
+  },
+  "name": "Discounts",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f57"
+  },
+  "name": "Credit Reporting and Repair",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f58"
+  },
+  "name": "Games",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f59"
+  },
+  "name": "Rentals",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f5a"
+  },
+  "name": "Motorcycles",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f5b"
+  },
+  "name": "Web Tools",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f5c"
+  },
+  "name": "Personal Loans",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f5d"
+  },
+  "name": "Garden",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f5e"
+  },
+  "name": "Bed & Bath",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f5f"
+  },
+  "name": "Audio Books",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f60"
+  },
+  "name": "Web Design",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f61"
+  },
+  "name": "Investment",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f62"
+  },
+  "name": "Peripherals",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f63"
+  },
+  "name": "Tools and Supplies",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f64"
+  },
+  "name": "Television",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f66"
+  },
+  "name": "Real Estate",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.716Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.716Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f67"
+  },
+  "name": "Commercial",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.716Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.716Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f68"
+  },
+  "name": "Mortgage Loans",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.717Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.717Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f69"
+  },
+  "name": "Buying and Selling",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.717Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.717Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f6a"
+  },
+  "name": "E-commerce Solutions/Providers",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.717Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.717Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f6b"
+  },
+  "name": "Legal",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.717Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.717Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f6c"
+  },
+  "name": "Wine & Spirits",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.717Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.717Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f6d"
+  },
+  "name": "Mobile Entertainment",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f6e"
+  },
+  "name": "Seasonal",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f6f"
+  },
+  "name": "Christmas",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f70"
+  },
+  "name": "Credit Cards",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f72"
+  },
+  "name": "Network Marketing",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f73"
+  },
+  "name": "Restaurants",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f74"
+  },
+  "name": "Electronic Toys",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f79"
+  },
+  "name": "Collectibles and Memorabilia",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f7a"
+  },
+  "name": "Classifieds",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f7b"
+  },
+  "name": "Real Estate Services",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f7c"
+  },
+  "name": "College",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f7d"
+  },
+  "name": "Weddings",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f7e"
+  },
+  "name": "Professional Sports Organizations",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f7f"
+  },
+  "name": "Water Sports",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f80"
+  },
+  "name": "Recycling",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f81"
+  },
+  "name": "Auctions",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6602391d2caf30ac40f31f82"
+  },
+  "name": "Search Engine",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T02:55:25.719Z"
+  }
+}]

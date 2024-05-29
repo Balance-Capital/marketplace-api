@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "6095453ad30c28d416439385"
+  },
+  "text": "with this coupon",
+  "updatedAt": {
+    "$date": "2021-05-07T13:48:42.105Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-07T13:48:42.105Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60954545d30c28d416439386"
+  },
+  "text": "using voucher",
+  "updatedAt": {
+    "$date": "2021-05-09T17:34:57.332Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-07T13:48:53.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6095454fd30c28d416439387"
+  },
+  "text": "using coupon",
+  "updatedAt": {
+    "$date": "2021-05-09T17:34:32.956Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-07T13:49:03.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60954557d30c28d416439388"
+  },
+  "text": "with this voucher",
+  "updatedAt": {
+    "$date": "2021-05-09T17:35:11.342Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-07T13:49:11.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60954562d30c28d416439389"
+  },
+  "text": "using voucher",
+  "updatedAt": {
+    "$date": "2021-05-09T17:35:31.621Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-07T13:49:22.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6095456bd30c28d41643938a"
+  },
+  "text": "take extra",
+  "updatedAt": {
+    "$date": "2021-05-07T13:49:31.444Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-07T13:49:31.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60954574d30c28d41643938b"
+  },
+  "text": "price slashed",
+  "updatedAt": {
+    "$date": "2021-05-07T13:49:40.500Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-07T13:49:40.500Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6095457dd30c28d41643938c"
+  },
+  "text": "price cut",
+  "updatedAt": {
+    "$date": "2021-05-07T13:49:49.658Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-07T13:49:49.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60969c628e9dbee6791c9fce"
+  },
+  "text": "using code",
+  "updatedAt": {
+    "$date": "2021-05-08T14:12:50.904Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-08T14:12:50.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60969c778e9dbee6791c9fcf"
+  },
+  "text": "with code",
+  "updatedAt": {
+    "$date": "2021-05-08T14:13:11.598Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-08T14:13:11.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60981d768e9dbee6791c9fe4"
+  },
+  "text": "special rebate",
+  "updatedAt": {
+    "$date": "2021-05-09T17:35:50.095Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-09T17:35:50.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60982a098e9dbee6791c9fe5"
+  },
+  "text": "with this promo",
+  "updatedAt": {
+    "$date": "2021-05-09T18:29:29.610Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-09T18:29:29.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61e12cfb19689498122a7cb6"
+  },
+  "text": "only now",
+  "updatedAt": {
+    "$date": "2022-01-14T07:57:47.167Z"
+  },
+  "createdAt": {
+    "$date": "2022-01-14T07:57:47.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61e12dc419689498122a7cba"
+  },
+  "text": "occasion take now",
+  "updatedAt": {
+    "$date": "2022-01-14T08:01:08.866Z"
+  },
+  "createdAt": {
+    "$date": "2022-01-14T08:01:08.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61e12dd119689498122a7cbe"
+  },
+  "text": "take new opportunity",
+  "updatedAt": {
+    "$date": "2022-01-14T08:01:21.708Z"
+  },
+  "createdAt": {
+    "$date": "2022-01-14T08:01:21.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61e12de519689498122a7cc2"
+  },
+  "text": "amazing discount",
+  "updatedAt": {
+    "$date": "2022-01-14T08:01:41.687Z"
+  },
+  "createdAt": {
+    "$date": "2022-01-14T08:01:41.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61e12df219689498122a7cc6"
+  },
+  "text": "good occasion for you",
+  "updatedAt": {
+    "$date": "2022-01-14T08:01:54.457Z"
+  },
+  "createdAt": {
+    "$date": "2022-01-14T08:01:54.457Z"
+  },
+  "__v": 0
+}]

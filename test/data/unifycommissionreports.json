@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "94237f942e1e70d5af342583"
+  },
+  "commissionId": "438321550",
+  "dataSource": "skimLinks",
+  "customId": "1803e9c4-582f-427b-ab79-e098a1fbd011",
+  "date": {
+    "$date": "2023-02-24T22:23:46.000Z"
+  },
+  "userCountry": "GB",
+  "merchantDetails": {
+    "id": "424486",
+    "name": "EGO Shoes (US & Canada)",
+    "_id": {
+      "$oid": "64237f9b2e1e70d5af3426c9"
+    }
+  },
+  "transactionDetails": {
+    "commissionType": "CPA",
+    "currency": "USD",
+    "currencyRate": 1.083925066092331,
+    "currencyPair": "EUR",
+    "items": 1,
+    "orderAmount": 2.554730086399667,
+    "publisherAmount": 0.08369295763045309,
+    "publisherAmountString": "a4e17af07de2179b2d7711b857ec95a4:5dd17be66da0dac64193beeb8c254524dcd080",
+    "invoiceId": null,
+    "lastUpdated": {
+      "$date": "2023-02-25T00:13:51.000Z"
+    },
+    "paymentStatus": "unpaid",
+    "status": "active",
+    "withDrawStatus": "withdraw_off",
+    "transactionDate": {
+      "$date": "2023-02-24T22:25:00.000Z"
+    },
+    "_id": {
+      "$oid": "64237f9b2e1e70d5af3426ca"
+    }
+  },
+  "signed": [
+    {
+      "timestamp": {
+        "$date": "2023-03-29T00:00:28.042Z"
+      },
+      "value": "$2b$10$Y4AgZmzSpPpu70euwYGvA.eycxjM2KBhOdYzSVQYqqg1Ad5/OU0tu",
+      "name": "partners-api-prod",
+      "_id": {
+        "$oid": "64237f9c2e1e70d5af3426d1"
+      }
+    },
+    {
+      "timestamp": {
+        "$date": "2023-03-29T00:00:28.042Z"
+      },
+      "value": "$2b$10$W/iJZyNNOhbsWYtlYPzSPOe.NrJF2rPYBPDEyDYza.AjsK7qS..jK",
+      "name": "intermediate",
+      "_id": {
+        "$oid": "64237f9c2e1e70d5af3426d2"
+      }
+    }
+  ],
+  "__v": 0
+}]

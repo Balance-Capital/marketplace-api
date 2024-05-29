@@ -1,0 +1,84 @@
+[
+    {
+    "revisionNumber": null,
+    "lastModified": null,
+    "isDefaultInstance": false,
+    "extVersion": null,
+    "enabled": true,
+    "useCustomHook": false,
+    "ajaxWebsite": true,
+    "hybrid": {
+        "pageLoadedApi": {
+            "apiKeyword":"en_GB?implementation=link&flowOption=p&situation=checkout&href",
+            "type": "",
+            "payload": ""
+        },
+        "couponApplyApi": {
+            "apiKeyword": "coupon",
+            "type": "",
+            "payload": ""
+        },
+        "couponRemoveApi": {
+            "apiKeyword": "coupon",
+            "type": "",
+            "payload": ""
+        }
+    },
+    "timers": {
+        "beforeCouponRemoveBtn": 0,
+        "beforeClickBeforeStart": 0,
+        "beforeInputBox": 0,
+        "beforeApplyCode": 0,
+        "afterApplyCode": 500,
+        "afterRemoveCode": 500,
+        "afterPageLoad": 0,
+        "extensionTimeout": 0,
+        "checkIsVisibleTimeout": 0
+    },
+    "codes": {
+        "noOfCodesToApply": null,
+        "stackCodesApplication": null,
+        "stopOnCouponSuccess": false
+    },
+    "selectors": {
+        "pickInstance": {
+            "urlKeyword": "shipping-method",
+            "requiredElement": ""
+        },
+        "userAppliedCoupons": {
+            "coupon": ".c-coupon__selected",
+            "regex": ""
+        },
+        "showAA": {
+            "checkIsVisible": ".bag__list .bag__totals-item:last-child span:last-child"
+        },
+        "apply": {
+            "applyButton": ".c-coupon__combined-input button",
+            "inputBox": "#coupon",
+            "removeButton": ".block-current-coupon__coupon button",
+            "couponSuccess": ".block-current-coupon__coupon button",
+            "couponFailure": ".c-input__validation-advice"
+        },
+        "actions": {
+            "clickOnAppearance": {
+                "parent": "",
+                "child": ""
+            },
+            "clickBeforeStart":".block-current-coupon__coupon button span",
+            "closeErrorMessage": "",
+            "hideErrorMessage": "",
+            "emptyErrorMessage": "",
+            "removeErrorMessage": ""
+        },
+        "messages": {
+            "couponApplied": "",
+            "couponFailed": "Coupon code does not exist."
+        },
+        "total": {
+            "amount":".bag__list .bag__totals-item:last-child span:last-child",
+            "subtotal": "",
+            "discount": ".coupon-message"
+        }
+    }
+    }
+]

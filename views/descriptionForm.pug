@@ -1,0 +1,24 @@
+doctype html
+html
+  head
+    title Manage descriptions tool
+    meta(charset='utf-8')
+    meta(name="robots" content='noindex')
+    style
+      include style.css
+  body
+    h1= `${companyName}`
+    div= `content length: ${contentLength} characters`
+    form(action='/', method='POST')
+      input(name='token', value=token type='hidden')
+      input(name='storeId', value=storeId type='hidden')
+      p Description: 
+        | 
+        textarea(name="description", style="width:100%; height:80px")= description 
+      p Indexing: 
+        |
+        input(type='checkbox' name='indexing')
+      p
+        |
+        input(type="submit" value='next store')
+    iframe(src=`${domain}` width='100%' height='700px')

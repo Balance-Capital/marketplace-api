@@ -1,0 +1,54 @@
+[{
+    "clicked_url": "https://www.naturepedic.com/summer-sale?LSNSUBSITE=LSNSUBSITE&skimoffer=1683885",
+    "custom_id": "1803e9c4-582f-427b-ab79-e098a1fbd011",
+    "date": "2022-07-13T04:07:34.000+00:00",
+    "page_url": "https://XXX.com/",
+    "platform": "Web",
+    "user_agent": "",
+    "user_country": "US",
+    "merchant_details": {
+      "id": "24459",
+      "name": "Naturepedic"
+    },
+    "transaction_details": {
+      "basket": {
+        "commission_type": "CPA",
+        "currency": "EUR",
+        "items": "1",
+        "order_amount": "194.6304",
+        "publisher_amount": "8.758367999999999"
+      },
+      "invoice_id": "INV-001",
+      "last_updated": "2022-07-16T17:26:33.000+00:00",
+      "payment_status": "paid",
+      "status": "active",
+      "transaction_date": "2022-07-16T11:47:04.000+00:00"
+    }
+},
+{
+    "clicked_url": "https://www.naturepedic.com/summer-sale?LSNSUBSITE=LSNSUBSITE&skimoffer=1683885",
+    "custom_id": "1803e9c4-582f-427b-ab79-e098a1fbd011",
+    "date": "2022-07-13T04:07:34.000+00:00",
+    "page_url": "https://XXX.com/",
+    "platform": "Web",
+    "user_agent": "",
+    "user_country": "US",
+    "merchant_details": {
+      "id": "24459",
+      "name": "Naturepedic"
+    },
+    "transaction_details": {
+      "basket": {
+        "commission_type": "CPA",
+        "currency": "EUR",
+        "items": "1",
+        "order_amount": "194.6304",
+        "publisher_amount": "8.758367999999999"
+      },
+      "invoice_id": null,
+      "last_updated": "2022-07-16T17:26:33.000+00:00",
+      "payment_status": "unpaid",
+      "status": "active",
+      "transaction_date": "2022-07-16T11:37:04.000+00:00"
+    }
+}]

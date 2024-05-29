@@ -1,0 +1,34 @@
+// MongoDB Playground
+// Use Ctrl+Space inside a snippet or a string literal to trigger completions.
+
+// The current database to use.
+// use('Api-development');
+// use('Api-staging');
+use('Api');
+
+// Search for documents in the current collection.
+db.getCollection('stores')
+  .find({
+    'seo.contentLength': {$gt: 0}, 
+    // offers: {$ne: []},
+    priority:1,
+    isActive: {$exists: false},
+    indexing: {$exists: true}
+})
+.count()
+
+// Update
+db.stores.updateMany({
+  'seo.contentLength': {$gt: 0}, 
+  // offers: {$ne: []},
+  priority:1,
+  isActive: {$exists: false},
+  indexing: {$exists: true}
+  },
+  { $set: { 
+      isActive: true,
+      indexing: true,
+      // seo: {longTail: 'may-2022'}
+    } 
+  },
+  { upsert: true})    

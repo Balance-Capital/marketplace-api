@@ -1,0 +1,100 @@
+// MongoDB Playground
+// Use Ctrl+Space inside a snippet or a string literal to trigger completions.
+
+// The current database to use.
+// use('Api-development');
+// use('Api-staging');
+use('Api');
+
+const settings = {
+  group: 0
+}
+
+if(settings.group) {
+
+db.stores.aggregate([
+{
+  /**
+   * query: The query in MQL.
+   */
+  $match: {
+    'seo.contentLength': {$gt: 0},
+    offers: {$ne: []},
+    isActive: {$exists: false}
+  }
+},
+{
+  /**
+   * specifications: The fields to
+   *   include or exclude.
+   */
+  $project: {
+    domain: 1,
+    priority: 1
+  }
+},
+{
+  /**
+   * _id: The id of the group.
+   * fieldN: The first field name.
+   */
+  $group: {
+    _id: '$priority',
+    'count': {
+      $sum: 1
+    }
+  }
+}
+])
+}
+
+db.stores
+  .find({
+    'seo.contentLength': {$gt: 0}, 
+    offers: {$ne: []},
+    priority:1,
+    isActive: {$exists: false},
+    indexing: {$exists: true}
+},{
+  seo: 1
+})
+.count()
+
+db.stores.find({ isActive: true, indexing: true, offers:{$ne: []}, 'seo.contentLength': {$gt: 500} }).count()
+db.stores.find({ isActive: {$exists: false},indexing: {$exists: true},'seo.contentLength': {$gt: 0} }).count()
+db.stores.find({ isActive: {$exists: true},indexing: {$exists: true},'seo.contentLength': {$gt: 0} }).count()
+db.stores.find({ isActive: {$exists: true},indexing: {$exists: true} }).count()
+db.stores.find({ isActive: true,indexing: true }).count()
+db.stores.find({ isActive: true,indexing: true, offers:[] }).count()
+db.stores.find({ indexing: true }).count()
+db.stores.find({ isActive: true} ).count()
+
+db.stores.find({ 'seo.contentLength': {$gt: 0} }).count()
+db.stores.find({ 'seo.contentLength': {$gt: 0}, priority:1 }).count()
+
+
+db.stores.find({ isActive: true} ).count()
+
+db.stores.find({ "offers.updatedAt": {$gte: new Date('2022-07-13T04:45:30.086+00:00')} }).count()
+db.stores.aggregate( [ {$match:{"offers.updatedAt": {$gte: new Date('2022-07-13T04:45:30.086+00:00')}}}, {$group: {_id:'$priority', 'count':{$sum:1}}} ] )
+db.stores.aggregate( [ {$match:{"offers.updatedAt": {$gte: new Date('2022-07-13T04:45:30.086+00:00')}, "seo.contentLength":{$gt:0}}}, {$group: {_id:'$priority', 'count':{$sum:1}}} ] )
+
+db.stores.updateMany({ indexing: true }, { $set: {indexing: false} })
+db.stores.updateMany({ isActive: true }, { $set: {isActive: false} })
+db.stores.updateMany({ 'seo.contentLength': {$gt: 0}, priority:1 }, { $set: {isActive: true, indexing: true} })
+db.stores.updateMany({ isActive: true,indexing: true, offers:[] }, { $set: {isActive: false, indexing: false} })
+db.stores.updateMany({ offers:{ $ne: [] }, 'seo.contentLength': {$gt: 600} }, { $set: {isActive: true, indexing: true} })
+// Update
+// db.stores.updateMany({
+//   'seo.contentLength': {$gt: 0}, 
+//   // offers: {$ne: []},
+//   priority:1,
+//   isActive: {$exists: false},
+//   indexing: {$exists: true}
+//   },
+//   { $set: { 
+//       isActive: true,
+//       indexing: true,
+//     } 
+//   },
+//   { upsert: true})

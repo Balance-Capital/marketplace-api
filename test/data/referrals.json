@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "94237f9b2e1e70d5af342652"
+  },
+  "referral": "741a971c57",
+  "status": "pending",
+  "refBonus": 0.009299217514494789,
+  "refBonusString": "80a041b6bb11336fa22f39dbeaa91a39:b2d68786904727feed2003380863cf5c90b81dba",
+  "currency": "USD",
+  "transactionDate": {
+    "$date": "2023-02-24T22:25:00.000Z"
+  },
+  "transactionId": "94237f942e1e70d5af342583",
+  "signed": [
+    {
+      "timestamp": {
+        "$date": "2023-03-29T00:00:27.642Z"
+      },
+      "value": "$2b$10$hxQmXfTXbj76YsmdnaV24.a8tneQ7NtqQMKsrLXY1W3sqBNYAkOVi",
+      "name": "partners-api-prod",
+      "_id": {
+        "$oid": "64237f9b2e1e70d5af342653"
+      }
+    },
+    {
+      "timestamp": {
+        "$date": "2023-03-29T00:00:27.642Z"
+      },
+      "value": "$2b$10$6uAZ//eoP/s6YKd5/AC8MO7HwABM0pPSO2urpO3r.5sYd1T8iKkIy",
+      "name": "intermediate",
+      "_id": {
+        "$oid": "64237f9b2e1e70d5af342654"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-29T00:00:27.647Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-29T00:00:27.647Z"
+  }
+}]

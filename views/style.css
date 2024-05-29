@@ -1,0 +1,14 @@
+body {
+    font-family: 'Arial';
+    font-size: 1.2em;
+};
+
+input {
+    font-family: 'Arial';
+    font-size: 1.2em;
+}
+
+.warning {
+    color: '#CC0000';
+    font-weight: bold;
+};
